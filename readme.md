@@ -5,6 +5,7 @@
 # dépendances
 
 ```sh
+composer install
 composer require robthree/twofactorauth
 ```
 
